@@ -1,4 +1,4 @@
 qa-fi-FI
 ========
 
-Question2Answer Finnish translation
+Question2Answer Finnish translation. Not tested yet. 
