@@ -98,7 +98,7 @@
 		'max_upload_size_x' => 'Enimmäiskoko on ^',
 		'moved' => 'siirretty',
 		'nav_account' => 'Käyttäjätilini',
-		'nav_activity' => 'Kaikki aktiivisuus',
+		'nav_activity' => 'Kaikki toiminta',
 		'nav_admin' => 'Ylläpito',
 		'nav_ask' => 'Esitä kysymys',
 		'nav_categories' => 'Kategoriat',
