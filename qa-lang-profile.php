@@ -70,14 +70,14 @@
 		'post_wall_empty' => 'Lisää seinälle kirjoitettava teksti',
 		'post_wall_limit' => 'Liian monta seinäkirjoitusta - yritä uudelleen tunnin kuluttua',
 		'post_wall_must_login' => '^1Kirjaudu sisään^2 tai ^3rekisteröidy^4 kirjoittaaksesi seinälle.',
-		'post_wall_must_confirm' => '^5Vahti sähköpostiosoitteesi^6 kirjoittaaksesi seinälle.',
+		'post_wall_must_confirm' => '^5Vahvista sähköpostiosoitteesi^6 kirjoittaaksesi seinälle.',
 		'questions' => 'Kysymykset:',
 		'questions_by_x' => '^:n kysymykset',
 		'ranked_x' => ' (sijoitus #^)',
 		'received' => 'Vastaanotettu:',
 		'recent_activity_by_x' => 'Viimeaikaisin ^:n aktiivisuus',
 		'score' => 'Pisteet:',
-		'send_private_message' => ' - ^1send private message^2',
+		'send_private_message' => ' - ^1Lähetä yksityisviesti^2',
 		'set_bonus_button' => 'Päivitä bonukset',
 		'title' => 'Otsikko:',
 		'user_x' => 'Käyttäjä ^',
@@ -85,7 +85,7 @@
 		'x_chosen_as_best' => ' (^ valittu parhaaksi)',
 		'x_down_votes' => '^ alaspeukutusta',
 		'x_up_votes' => '^ ylöspeukutusta',
-		'x_with_best_chosen' => ' (^ with best answer chosen)',
+		'x_with_best_chosen' => ' (^ kysymystä, joissa paras vastaus valittu)',
 	);
 	
 
