@@ -125,7 +125,7 @@
 		'q_hidden_other' => 'This question has been hidden',
 		'q_notify_email' => 'Email me at this address if my question is answered or commented on:',
 		'q_notify_label' => 'Email me if my question is answered or commented on',
-		'q_notify_x_label' => 'Lähetä minulle sähköpostia (^) jos kysymykseeni tulee vastaus tai kommentti',
+		'q_notify_x_label' => 'Lähetä minulle sähköpostia (^) kun kysymykseeni tulee vastaus tai kommentti',
 		'q_tags_comma_label' => 'Tagit - käytä pilkkua (,) erottimena:',
 		'q_tags_label' => 'Tagit - käytä väliviivaa yhdistääksesi sanoja:',
 		'q_title_label' => 'Kysymys yhdellä lauseella:',
