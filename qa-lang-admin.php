@@ -22,6 +22,9 @@
 	GNU General Public License for more details.
 
 	More about this license: http://www.question2answer.org/license.php
+
+        Finnish translation: kyyberi (jarkko.moilanen@ossoil.com)
+
 */
 
 	return array(
