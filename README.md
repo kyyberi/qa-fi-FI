@@ -7,3 +7,4 @@ Done files:
 * qa-lang-main.php
 * qa-lang-misc.php
 * qa-lang-users.php
+* qa-lang-profile.php
