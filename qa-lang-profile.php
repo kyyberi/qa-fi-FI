@@ -36,7 +36,7 @@
 		'comments' => 'Kommentit:',
 		'delete_wall_post_popup' => 'Poista tämä seinäkirjoitus',
 		'extra_privileges' => 'Extra oikeudet:',
-		'gave_out' => 'Luovutti:',
+		'gave_out' => 'Antanut:',
 		'wall_for_x' => '^:n seinä',
 		'my_account_title' => 'Käyttäjätilini tiedot',
 		'no_answers_by_x' => 'Ei vastauksia käyttäjältä ^',
