@@ -112,7 +112,7 @@
 		'nav_most_answers' => 'Eniten vastauksia',
 		'nav_most_recent' => 'Viimeisimmät',
 		'nav_most_views' => 'Eniten katseluita',
-		'nav_most_votes' => 'Eniten ääniä',
+		'nav_most_votes' => 'Eniten peukkuja',
 		'nav_no_answer' => 'Ei vastausta',
 		'nav_no_selected_answer' => 'Ei valittua vastausta',
 		'nav_no_upvoted_answer' => 'Ei peukutettua vastausta',
