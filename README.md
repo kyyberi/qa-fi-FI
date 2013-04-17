@@ -1,7 +1,7 @@
 qa-fi-FI
 ========
 
-Question2Answer Finnish translation. Not with 1.6-dev-0203. 
+Question2Answer Finnish translation. Tested with 1.6-dev-0203. 
 
 Done files:
 * qa-lang-main.php
