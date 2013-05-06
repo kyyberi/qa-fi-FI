@@ -9,3 +9,4 @@ Done files:
 * qa-lang-users.php
 * qa-lang-profile.php
 * qa-lang-question.php
+* qa-lang-emails.php
