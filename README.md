@@ -11,3 +11,4 @@ Done files:
 * qa-lang-profile.php
 * qa-lang-question.php
 * qa-lang-emails.php
+* qa-lang-options.php
